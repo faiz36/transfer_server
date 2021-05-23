@@ -1,0 +1,6 @@
+---
+name: transfer
+version: 1.0.0
+main: faiz\transper_survive\Main
+api: 3.19.1
+...
